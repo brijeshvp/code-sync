@@ -1,0 +1,14 @@
+to create react project:- npx create-react-app realtime-code-collaborator
+to start dev server:- npm run start or npm start
+to install react-router:- npm install react-router-dom  
+to generate unique room id on clicking new room btn:- use package uuid
+install using -> npm install uuid
+to show notification on new room created, use library:- react-hot-toast
+install using:- npm install react-hot-toast
+reference:- https://react-hot-toast.com/
+to use user avatar on editor page -> use react-avatar package
+install using:- npm install react-avatar
+reference:- https://www.npmjs.com/package/react-avatar
+to user open source code editor:- npm install codemirror@5.65.11
+reference:- https://codemirror.net/
+github reference:- https://github.com/codemirror/dev/
