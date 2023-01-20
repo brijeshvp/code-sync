@@ -22,7 +22,7 @@ function Editor({ socketRef, roomId, onCodeChange }) {
                 autoCloseBrackets: true,
                 lineNumbers: true,
             })
-8
+
 
             editorRef.current.on('change',(instance,changes)=>{
               // console.log('changes',changes);
