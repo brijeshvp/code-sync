@@ -21,3 +21,6 @@ install nodemon as dev dependency -> npm install -D nodemon
 
 to build app for production/deploy:-
 npm run build
+setup scripts in package.json
+push code to github
+goto(for deploy on heroku):- https://dashboard.heroku.com/apps
